@@ -874,13 +874,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - Built with TypeScript for type safety
 - Leverages modern JavaScript features for performance
 
-## 📧 Support
-
-- 📖 [Documentation](https://jsframes.dev/docs)
-- 🐛 [Issues](https://github.com/yourusername/jsframes/issues)
-- 💬 [Discussions](https://github.com/yourusername/jsframes/discussions)
-- 📧 [Email Support](mailto:support@jsframes.dev)
-
----
-
 **JSFrames** - Bringing pandas-grade data analysis to JavaScript! 🐼➡️🚀
